@@ -4,7 +4,6 @@ Cloudflare-like "protection" for your Discord DMs.
 
 -----
 
-## SoonTM
 ### This project is currently in the concept phase. Feel free to contact me if you might be interested in helping:
 
 - Python application
